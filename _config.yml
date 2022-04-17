@@ -1,10 +1,1 @@
-#theme: jekyll-theme-cayman
-theme: jekyll-theme-clean-blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
-#theme: jekyll-theme-clean-blog
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
-# Build settings
-plugins:  - jekyll-remote-theme
+theme: jekyll-theme-cayman
